@@ -16,7 +16,7 @@
 各种开发相关的辅助工具，加速开发
 
 - [yo](https://yeoman.io/) 脚手架生成工具
-- [CodiMD](https://demo.codimd.org/)
+- [CodiMD](https://demo.codimd.org/) 开源Markdown编辑
 
 ## 平台解决方案
 
@@ -68,5 +68,6 @@ CLI工具
 To the extent possible under law, Ming Wan has waived all copyright and
 related or neighboring rights to this work.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1MDg4MzcxLC0xNzA0MDE2NjEwXX0=
+eyJoaXN0b3J5IjpbLTEyODI5NzYyNTksLTE3MDQwMTY2MTBdfQ
+==
 -->
